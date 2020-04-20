@@ -1,0 +1,17 @@
+public enum State {
+    READY,
+    CHOOSING_ACTION,
+    CHOOSING_COFFEE,
+    ESPRESSO,
+    CAPPUCCINO,
+    LATTE,
+    READY_TO_FILL,
+    FILLING_WATER,
+    FILLING_MILK,
+    FILLING_BEANS,
+    FILLING_CUPS,
+    TAKING,
+    REMAINING,
+    CLOSING
+
+}
